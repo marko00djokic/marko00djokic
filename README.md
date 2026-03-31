@@ -28,15 +28,15 @@ for banking clients and web applications across hospitality and real estate.
 
 ## 🚀 Current Projects
 
-- **[caffe-pasaz-management](https://github.com/marko-djokic/caffe-pasaz-management)**  
+- **[caffe-pasaz-management](https://github.com/marko00djokic/caffe-pasaz-management)**  
   Full-stack café management system — orders, tables, inventory tracking.  
   Stack: Laravel + TypeScript
 
-- **[IzdajIznajmiV2](https://github.com/marko-djokic/IzdajIznajmiV2)**  
+- **[IzdajIznajmiV2](https://github.com/marko00djokic/IzdajIznajmiV2)**  
   Property rental platform connecting landlords and tenants.  
   Stack: Laravel REST API + Vue 3 SPA
 
-- **[kafanica-magacin](https://github.com/marko-djokic/kafanica-magacin)**  
+- **[kafanica-magacin](https://github.com/marko00djokic/kafanica-magacin)**  
   Hospitality inventory and shift management system.  
   Stack: Laravel + Python scripts
 
